@@ -1,0 +1,11 @@
+usage: dcrocker3_HW3_programming.py [-h] infile {dc,dp}
+
+Calculate the optimal investment period.
+
+positional arguments:
+  infile      Path to the input file containing the interest rate data.
+  {dc,dp}     The algorithm to use (dc = Divide and Conquer; dp = Dynamic
+              Programming).
+
+optional arguments:
+  -h, --help  show this help message and exit
